@@ -1,6 +1,6 @@
 {
   "name": "@panda-ai/image",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "In browser image compression, powered by WASM (imagequant)",
   "main": "./lib/index.js",
   "files": [
