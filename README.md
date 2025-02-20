@@ -13,9 +13,7 @@ Inspired by [node-module-boilerplate](https://github.com/sindresorhus/node-modul
 - [VSCode Launch Configurations](https://github.com/Panda-Intelligence/image/blob/main/.vscode/launch.json)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Husky](https://github.com/typicode/husky)
-- [Lint Staged](https://github.com/okonet/lint-staged)
 - [Commitizen](https://github.com/search?q=commitizen)
-- [ESLint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
 
 

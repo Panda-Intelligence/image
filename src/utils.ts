@@ -1,5 +1,5 @@
 import { type ImageDataLike } from './index';
-import { PNG } from 'pngjs';
+import { PNG } from 'pngjs/browser';
 
 export function concatBuffers(buffers: Uint8Array[]) {
   const totalLength = buffers.reduce((acc, buf) => acc + buf.length, 0);
